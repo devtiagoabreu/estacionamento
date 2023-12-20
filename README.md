@@ -19,3 +19,6 @@ https://www.apachelounge.com/viewtopic.php?t=6421&view=next
 003 - Criando o arquivo .htaccess e alterando um controller
 
 004 - Criando o controller e a view 'Home' e alterando o controller default
+
+005 - Instalando o template themekit LavaLite (diretorio recursos)
+
