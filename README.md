@@ -15,6 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [BOOTSTRAP](https://getbootstrap.com/)
 - [CSS](https://www.w3schools.com/css/)
 - [JAVASCRIPT](https://www.javascript.com/)
+- [ION_AUTH](http://benedmunds.com/ion_auth/)
 
 ## 🔖 Template
 
@@ -46,7 +47,9 @@ Esse projeto está sob a licença [MIT](https://pt.wikipedia.org/wiki/Licen%C3%A
 
 [007 - Alterando o title e footer](https://github.com/devtiagoabreu/estacionamento/commit/153d47d66dc5240bcaf7e9bf24984fdede180ba0)
 
-[008 - Traduzindo codeigniter e criando o banco de dados]()
+[008 - Traduzindo codeigniter e criando o banco de dados](https://github.com/devtiagoabreu/estacionamento/commit/8cc618ecfce437d4dcbd8271f27766a37412cacd)
+
+[009 - Instalando o plugin ion_auth]()
 
 ## 📅 Última atualização
 
