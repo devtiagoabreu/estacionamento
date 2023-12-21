@@ -22,3 +22,4 @@ https://www.apachelounge.com/viewtopic.php?t=6421&view=next
 
 005 - Instalando o template themekit LavaLite (diretorio recursos)
 
+006 - Fatiando Template
