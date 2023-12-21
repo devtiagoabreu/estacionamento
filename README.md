@@ -3,7 +3,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [PHP 7.4](https://www.w3c.br/pub/Cursos/CursoHTML5/html5-web.pdf)
-- [CODEIGNITER](https://codeigniter.com/)
+- [CODEIGNITER 3](https://codeigniter.com/)
 - [BOOTSTRAP](https://getbootstrap.com/)
 - [CSS](https://www.w3schools.com/css/)
 - [JAVASCRIPT](https://www.javascript.com/)
@@ -29,7 +29,7 @@ Gratidão a [Atriostech](https://atriostech.com.br/) - A tecnologia está sempre
 
 Esse projeto está sob a licença [MIT](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT)
 
-## Step by step do projeto
+## 🏃‍♂️ Step by step do projeto
 001 - Instalando o codeigniter
 
 002 - Carrengando projeto na IDE e conhecendo a estrutura	MVC	
@@ -50,8 +50,8 @@ Esse projeto está sob a licença [MIT](https://pt.wikipedia.org/wiki/Licen%C3%A
 
 ---
 
-## Links úteis
-https://phpiando.com.br/xampp-com-varias-versoes-em-php-8-0-7-4/
+## 🏋️ Links úteis
+- [phpiando](https://phpiando.com.br/xampp-com-varias-versoes-em-php-8-0-7-4/) 
 
 Codado com muita alegria e filhas no colo ♥ by [Tiago de Abreu](http://atriostech.com.br/tiago/) :wave: 
 [![Linkedin Badge](https://img.shields.io/badge/-tiagodeabreu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-de-abreu-8020b5b1/)](https://www.linkedin.com/in/tiago-de-abreu-8020b5b1/)
