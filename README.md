@@ -1,3 +1,11 @@
+## 💻 Projeto
+
+Sistema para estacionamento de veículos (Always Park)
+
+Project published in server hostinger 💜
+
+- [Projeto Publicado](https://?)
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -8,14 +16,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [CSS](https://www.w3schools.com/css/)
 - [JAVASCRIPT](https://www.javascript.com/)
 
-## 💻 Projeto
-
-Sistema para estacionamento
-
-Project published in server hostinger 💜
-
-- [Projeto Publicado](https://?)
-
 ## 🔖 Template
 
 - [ThemeKit - Lavalite](https://github.com/ThemeKit/BootstrapAdmin) 
@@ -23,6 +23,8 @@ Project published in server hostinger 💜
 ## 🧠 Agradecimento
 
 Gratidão a [Atriostech](https://atriostech.com.br/) - A tecnologia está sempre em evolução e não podemos parar de aprender!
+
+Ao Professor [Lucio Antonio de Souza](https://www.udemy.com/user/lucio-antonio-de-souza/) - Acesse os demais cursos!
 
 
 ## :memo: Licença
@@ -44,6 +46,8 @@ Esse projeto está sob a licença [MIT](https://pt.wikipedia.org/wiki/Licen%C3%A
 
 [007 - Alterando o title e footer](https://github.com/devtiagoabreu/estacionamento/commit/153d47d66dc5240bcaf7e9bf24984fdede180ba0)
 
+[008 - Traduzindo codeigniter e criando o banco de dados]()
+
 ## 📅 Última atualização
 
 21/12/2023 - 09h32min
@@ -51,7 +55,9 @@ Esse projeto está sob a licença [MIT](https://pt.wikipedia.org/wiki/Licen%C3%A
 ---
 
 ## 🏋️ Links úteis
-- [phpiando](https://phpiando.com.br/xampp-com-varias-versoes-em-php-8-0-7-4/) 
+- [phpiando](https://phpiando.com.br/xampp-com-varias-versoes-em-php-8-0-7-4/)
+- [codeigniter 3 download](https://api.github.com/repos/bcit-ci/CodeIgniter/zipball/refs/tags/3.1.13)
+- [codeigniter 3 translations](https://github.com/bcit-ci/codeigniter3-translations)  
 
 Codado com muita alegria e filhas no colo ♥ by [Tiago de Abreu](http://atriostech.com.br/tiago/) :wave: 
 [![Linkedin Badge](https://img.shields.io/badge/-tiagodeabreu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-de-abreu-8020b5b1/)](https://www.linkedin.com/in/tiago-de-abreu-8020b5b1/)
