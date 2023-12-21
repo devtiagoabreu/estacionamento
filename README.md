@@ -30,19 +30,19 @@ Gratidão a [Atriostech](https://atriostech.com.br/) - A tecnologia está sempre
 Esse projeto está sob a licença [MIT](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT)
 
 ## 🏃‍♂️ Step by step do projeto
-001 - Instalando o codeigniter
+[001 - Instalando o codeigniter](https://github.com/devtiagoabreu/estacionamento/commit/2cb089926f4b86b484caddd273ff8de0cccc9d0e)
 
 002 - Carrengando projeto na IDE e conhecendo a estrutura	MVC	
 	 
-003 - Criando o arquivo .htaccess e alterando um controller
+[003 - Criando o arquivo .htaccess e alterando um controller](https://github.com/devtiagoabreu/estacionamento/commit/fd42af790b699e6daddcd067125b53cc83e34068)
 
-004 - Criando o controller e a view 'Home' e alterando o controller default
+[004 - Criando o controller e a view 'Home' e alterando o controller default](https://github.com/devtiagoabreu/estacionamento/commit/934a32017dd77b9beceadecf527024def6d8a123)
 
-005 - Instalando o template themekit LavaLite (diretório recursos)
+[005 - Instalando o template themekit LavaLite (diretório recursos)](https://github.com/devtiagoabreu/estacionamento/commit/9fbac3dcc980ea4e2572468adc93d933f5c8a30d)
 
-006 - Fatiando Template
+[006 - Fatiando Template](https://github.com/devtiagoabreu/estacionamento/commit/a12bd3463706ecd35ea6dd3feaf3b9e55c5700b9)
 
-007 - Alterando o title e footer
+[007 - Alterando o title e footer](https://github.com/devtiagoabreu/estacionamento/commit/153d47d66dc5240bcaf7e9bf24984fdede180ba0)
 
 ## 📅 Última atualização
 
