@@ -49,7 +49,10 @@ Esse projeto está sob a licença [MIT](https://pt.wikipedia.org/wiki/Licen%C3%A
 
 [008 - Traduzindo codeigniter e criando o banco de dados](https://github.com/devtiagoabreu/estacionamento/commit/8cc618ecfce437d4dcbd8271f27766a37412cacd)
 
-[009 - Instalando o plugin ion_auth]()
+[009 - Instalando o plugin ion_auth](https://github.com/devtiagoabreu/estacionamento/commit/8e0102f8e82c18b1d1730a298bc5cb2de4479cf6)
+
+[010 - Listando usuários do banco de dados]()
+
 
 ## 📅 Última atualização
 
