@@ -53,7 +53,7 @@ Esse projeto está sob a licença [MIT](https://pt.wikipedia.org/wiki/Licen%C3%A
 
 [010 - Listando usuários do banco de dados](https://github.com/devtiagoabreu/estacionamento/commit/8c1eeb927f40e0a41bbbf86728d146df0abd4b70)
 
-[011 - Dinamizando o carregamento de arquivos css e javascript]()
+[011 - Dinamizando o carregamento de arquivos css e javascript - search, paginação e ordenação nas tables]()
 
 
 ## 📅 Última atualização

@@ -107,6 +107,13 @@
 <script src="<?php echo base_url('public/js/charts.js');?>"></script>
 -->
 <script src="<?php echo base_url('public/dist/js/theme.min.js');?>"></script>
+
+<?php if (isset($scripts)) : ?>
+	<?php foreach ($scripts as $script) : ?>
+		<script src="<?php echo base_url('public/'.$script);?>"></script>
+	<?php endforeach ?>
+<?php endif ?>
+
 <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
 <script>
 		(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
