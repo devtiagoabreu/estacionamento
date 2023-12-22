@@ -51,7 +51,9 @@ Esse projeto está sob a licença [MIT](https://pt.wikipedia.org/wiki/Licen%C3%A
 
 [009 - Instalando o plugin ion_auth](https://github.com/devtiagoabreu/estacionamento/commit/8e0102f8e82c18b1d1730a298bc5cb2de4479cf6)
 
-[010 - Listando usuários do banco de dados]()
+[010 - Listando usuários do banco de dados](https://github.com/devtiagoabreu/estacionamento/commit/8c1eeb927f40e0a41bbbf86728d146df0abd4b70)
+
+[011 - Dinamizando o carregamento de arquivos css e javascript]()
 
 
 ## 📅 Última atualização
