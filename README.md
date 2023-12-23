@@ -55,6 +55,8 @@ Esse projeto está sob a licença [MIT](https://pt.wikipedia.org/wiki/Licen%C3%A
 
 [011 - Dinamizando o carregamento de arquivos css e javascript - search, paginação e ordenação nas tables](https://github.com/devtiagoabreu/estacionamento/commit/765c52671eaf079d640c95cda0319fce782a1852)
 
+[012 - Identificar Perfil de acesso na table]()
+
 
 ## 📅 Última atualização
 
